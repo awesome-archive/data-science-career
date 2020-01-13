@@ -6,14 +6,13 @@ This repo is designed to give prospective analytical employees some additional i
 ## Platforms:
 
 
-1. [Toptal](https://www.toptal.com/) - Developers seeking to gain entry into the Toptal community are put through a battery of personality and technical tests.
-2. [Triplebyte](https://triplebyte.com/a/Nosq7GM/careera) - Take a quiz. Get offers from multiple top tech companies at once. 
+1. [Triplebyte](https://triplebyte.com/a/Nosq7GM/careera) - Take a quiz. Get offers from multiple top tech companies at once - includes a machine learning track.   
+2. [Toptal](https://www.toptal.com/) - Developers seeking to gain entry into the Toptal community are put through a battery of personality and technical tests.
 3. [Hired](https://hired.com/) - Hired matches employers with qualified candidates through a combination of in-house algorithms and online support.
-4. [Scalable Path](https://www.scalablepath.com/) - Scalable Path is a premium talent matching service.
-5. [Kaggle](https://www.kaggle.com/jobs) - Take your competition skills to an employer.
-6. [Direct](https://github.com/firmai/business-machine-learning-vendors) - Contact companies directly (not recommended)
-7. [AI Jobs](https://ai-jobs.net/)
-8. [Analytics Jobs](https://www.analyticsjobs.co.uk/)
+4. [Kaggle](https://www.kaggle.com/jobs) - Take your competition skills to an employer.
+5. [Direct](https://github.com/firmai/business-machine-learning-vendors) - Contact companies directly (not recommended)
+6. [AI Jobs](https://ai-jobs.net/) - Jobs in AI and Big Data
+7. [Analytics Jobs UK](https://www.analyticsjobs.co.uk/) - Support analytics workers with useful career information
 
 
 
@@ -25,7 +24,8 @@ This repo is designed to give prospective analytical employees some additional i
 - [Kununu](https://www.kununu.com/us) - Best well-rounded infromation.
 - [Comparably](https://www.comparably.com/) - Best comparison functionality.
 - [InHerSight](https://www.inhersight.com/) - Best female-friendly perspective.
-
+- [Paysa](https://www.paysa.com/https://www.paysa.com/) - Are you getting paid your market salary.
+- [Levels.fyi](https://www.levels.fyi/) - Compare career levels across companies. 
 
 
 ## Respected Online Courses
@@ -51,25 +51,25 @@ This repo is designed to give prospective analytical employees some additional i
 - [Solutions](https://github.com/interviewBubble/Data-Science-Competitions)
 
 
-## **Respected Packages (300 listings)**
+## **Respected Packages (From 300 listings)**
 
 - [Python](https://www.python.org)
 - [R](https://www.r-project.org)
 - [SQL](https://en.wikipedia.org)
-- Apache Spark
+- [Apache Spark](https://spark.apache.org/)
 - [Hadoop](https://hadoop.apache.org)
 - [Java](https://howtodoinjava.com)
 - [Scala](https://www.scala-lang.org)
-- Tensorflow, Keras
-- Pandas
-- Numpy
+- [Tensorflow](https://www.tensorflow.org/), [Keras](https://keras.io/)
+- [Pandas](https://pandas.pydata.org)
+- [Numpy](https://numpy.org)
 - [SAS](www.sas.com)
-- [NoSQL]()
+- [MongoDB](https://www.mongodb.com)
 - [Tableau](https://www.tableau.com)
 - [PowerBI](https://powerbi.microsoft.com)
 - [Hive](https://hive.apache.org)
 
-## **Respected Skill Tags (300 listings)**
+## **Respected Skill Tags (From 300 listings)**
 
 - Machine Learning
 - Statistics
@@ -143,10 +143,58 @@ This repo is designed to give prospective analytical employees some additional i
 - [Machine Learning Engineer](https://www.indeed.com/jobs?q=Machine+Learning+Engineer&l=)
 - [Statistician](https://www.indeed.com/jobs?q=Statistician&l=)
 
+## Groups
+
+### Linkedin Groups
+
+
+- Data Mining, Statistics, Big Data, Data Visualization, and Data Science
+- Artificial Intelligence, Deep Learning, Machine Learning
+- Big Data, Analytics, Business Intelligence & Visualization Experts Community
+- KDnuggets Machine Learning, Data Science, Data Mining, Big Data, AI
+- Cloud Computing, SaaS & Virtualization
+- Data Warehouse — Big Data — Hadoop — Cloud — Data Science — ETL
+- Artificial Intelligence, Deep Learning and IoT
+- SQL Server Business Intelligence(BI)
+- Internet of Things
+- Bank and Finance Technology — FinTech Banking Systems Financial Executives
+- Cloud Computing
+- Python Community
+- Python Data Science and Machine Learning
+
+
+### Reddit:
+
+- Dataengineering
+- Dataisbeautiful
+- Datasets
+- Datascienceproject
+- Learndatascience
+- Learnprogramming
+- Learnpython
+- Machinelearning
+- Learnmachinelearning
+- Python
+- Computervision
+- learnprogramming
+- Businessintelligence
+- programming
+- Scala
+- AWS
+- bigdata
+- SQL
+
 
 ## **Main Industry Companies**
 
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
+    - Google
+    - Amazon
+    - Microsoft
+    - IBM
+    - Salesforce
+    - Intel
+    - OpenAI
 - [Biotechnology](https://en.wikipedia.org/wiki/Biotechnology)
     - AbbVie
     - Aduro Biotech
@@ -179,13 +227,28 @@ This repo is designed to give prospective analytical employees some additional i
     - Anthem
     - Humana
     - Centene Corporation
-- [Law Enforcement](https://en.wikipedia.org/wiki/Law_enforcement)
 - [Logistics](https://en.wikipedia.org/wiki/Logistics)
+    - Amazon
+    - Wallmart
+    - Tesla
+    - Convoy
+    - Flexport
+    - FedEx
+    - CargoX
+    - 6 River Systems
+    - Nuro
 - [Marketing and Advertising](https://en.wikipedia.org/wiki/Marketing)
-- [Sports](https://en.wikipedia.org/wiki/Sport)
-
+    - Amazon
+    - Google
+    - Facebook
+    - Asos
+    - Alibaba
+    - InsideSales.com
+    - Conversica
+    
 
 ## **Thought Leaders**
+I don't know the other areas that well, send my your thought leaders by pull request. 
 
 - [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
 - [Biotechnology](https://en.wikipedia.org/wiki/Biotechnology)
@@ -248,6 +311,19 @@ This repo is designed to give prospective analytical employees some additional i
 - International Conference on Machine Learning ([ICML](https://2017.icml.cc/))
 - International Joint Conferences on Artificial Intelligence ([IJCAI](http://www.ijcai.org/))
 - Association for Computational Linguistics ([ACL](http://acl2017.org/))
+
+## Journals, Publications and Magazines
+
+ * [ICML](http://icml.cc/2015/) - International Conference on Machine Learning
+ * [epjdatascience](http://epjdatascience.springeropen.com/)
+ * [Journal of Data Science](http://www.jds-online.com/) - an international journal devoted to applications of statistical methods at large
+ * [Big Data Research](https://www.journals.elsevier.com/big-data-research)
+ * [Journal of Big Data](http://journalofbigdata.springeropen.com/)
+ * [Big Data & Society](http://journals.sagepub.com/home/bds)
+ * [Data Science Journal](https://www.jstage.jst.go.jp/browse/dsj)
+ * [datatau.com/news](http://www.datatau.com/news) - Like Hacker News, but for data
+ * [Data Science Trello Board](https://trello.com/b/rbpEfMld/data-science)
+ * [Medium Data Science Topic](https://medium.com/topic/data-science) - Data Science related publications on medium
 
 ## **Colleges**
 
@@ -346,6 +422,44 @@ A classic, but still good to this day. I mean come on, [Nate Silver](https://fiv
 Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascience.com/u/7e12c71dfa81?source=post_page-----ea6afbe20319----------------------) for bringing together this community of smart people with a passion for achieving things and helping others grow in data science. Browsing recent stories will bring you more than a few interesting project ideas on any given day.
 
 
+## Technical Prep
+
+
+- HackerRank (http://hackerrank.com/)
+- CodeChef (http://codechef.com/)
+- HackerEarth(http://hackerearth.com/)
+- LeetCode (http://leetcode.com/)
+- Topcoder (http://topcoder.com/)
+- Kaggle (http://kaggle.com/)
+- ChallengePost (http://challengepost.com/)
+- CodeForces (http://codeforces.com/)
+- Brilliant (http://brilliant.org/)
+- SPOJ (http://www.spoj.com/)
+- Project Euler (https://projecteuler.net/)
+- CodingBat (http://codingbat.com/)
+- Codewars (http://www.codewars.com/)
+- Codility (https://codility.com/)
+- Codingame (https://www.codingame.com/)
+- CoderByte (https://coderbyte.com/)
+- CodeEval (https://www.codeeval.com/)
+- UVA Online Judge (https://uva.onlinejudge.org/)
+- CodeFights (https://codefights.com/)
+- CheckiO (http://www.checkio.org/)
+- Talentbuddy (http://talentbuddy.co/)
+- PythonChallenge (http://pythonchallenge.com/)
+- LintCode (http://www.lintcode.com/en/)
+- Rosalind (http://rosalind.info/problems/locations/)
+- CrowdANALYTIX (https://www.crowdanalytix.com/)
+- SQL-EX.RU (http://sql-ex.ru/)
+- Kattis (http://www.kattis.com/)
+- CodeKata (http://codekata.com/)
+- CodeAbbey (http://codeabbey.com/)
+- FightCode (http://fightcodegame.com/)
+- BeatMyCode (http://www.beatmycode.com/)
+- TunedIT (http://tunedit.org/)
+- MLComp (http://mlcomp.org/)
+- HPC University (http://hpcuniversity.org/students/weeklyChallenge/)
+- Practice It (https://practiceit.cs.washington.edu/)
 
 # Interviews
 
@@ -559,20 +673,20 @@ Lastly, I’ve got to give a shoutout to the [TDS Team](https://towardsdatascien
 
 **"Best to work for"**
 
-[Arcadia Data](https://www.arcadiadata.com/),
-[FiveTran](https://fivetran.com/), 
-[InfluxData](https://www.influxdata.com/), 
-[Dataiku](https://www.dataiku.com/), 
-[Confluent](https://www.confluent.io/), 
-[Redis Labs](https://redislabs.com/), 
-[StreamSets](https://streamsets.com/), 
-[Looker](https://looker.com/), 
-[Periscope Data](https://www.periscopedata.com/),
-[ThoughtSpot](https://www.thoughtspot.com/), 
-[Alation](https://alation.com/),
-[Dremio](https://www.dremio.com/), 
-[H2O.ai](https://www.h2o.ai/) and 
-[SAP](https://www.sap.com/index.html)
+Arcadia Data,
+FiveTran, 
+InfluxData, 
+Dataiku, 
+Confluent, 
+Redis Labs, 
+StreamSets, 
+Looker, 
+Periscope Data,
+ThoughtSpot, 
+Alation,
+Dremio, 
+H2O.ai and 
+SAP
 
 **"Great to work for"**
 
@@ -676,6 +790,8 @@ Datameer
 - Internet
 - Banking
 - Insurances
+
+
 
 ### **Resume**
 - [Resume Builder](https://github.com/salomonelli/best-resume-ever) 
